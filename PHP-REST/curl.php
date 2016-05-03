@@ -20,8 +20,6 @@
  * $html = $c->put('http://example.com/', array('file'=>'/var/www/test.txt');
  * </code>
  *
- * @author     Dongsheng Cai <dongsheng@moodle.com> - https://github.com/dongsheng/cURL
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License
  */
 
 class curl {
